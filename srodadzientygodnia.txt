@@ -1,3 +1,5 @@
 poniedzialek
 wtorek
-sroda
+sroda----- 
+czwartek
+piatek
