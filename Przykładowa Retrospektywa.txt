@@ -1,0 +1,3 @@
+A. W kończącym się sprincie udało się zrealizować wszystkie zadania
+B. W kończącym się sprincie pojawił się problem komunikacji ze wszystkimi współpracownikami
+C. Aby usprawnić komunikację należy zainstalować narzędzie do korespondencji

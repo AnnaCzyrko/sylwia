@@ -1,0 +1,17 @@
+GŁÓWNE FUNKCJONALNOŚCI SKLEPU:
+
+Rejestracja użytkownika
+Logowanie się 
+Wylogowanie się
+
+Możliwość wyszukiwania produktów
+Usuwanie i dodawanie produktów do koszyka
+Wyświetlanie historii zamówień
+Złożenie i opłacenie zamówienia
+Podgląd zamówienia
+
+Edycja danych personalnych
+Edycja danych adresowych
+Tworzenie listy ulubionych produktów
+Uzupełnienie formularza kontaktowego i wysłanie wiadomości
+Dodanie e-mail do newslettera
