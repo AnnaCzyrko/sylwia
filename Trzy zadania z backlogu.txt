@@ -1,0 +1,5 @@
+TRZY ZADANIA Z BACKLOGU:
+
+1. Jako niezarejestrowany użytkownik, chcę utworzyć konto, aby móc się logować.
+2. Jako zalogowany użytkownik, chcę wybrać produkt, aby go kupić.
+3. Jako zalogowany użytkownik, chcę sprawdzić listę produktów w koszyku, aby sprawdzić czy jest wszystko co zamówiłem.
