@@ -1,5 +1,8 @@
 TRZY ZADANIA Z BACKLOGU:
 
 1. Jako niezarejestrowany użytkownik, chcę utworzyć konto, aby móc się logować.
+Punkty estymacyjne: 1
 2. Jako zalogowany użytkownik, chcę wybrać produkt, aby go kupić.
+Punkty estymacyjne: 1
 3. Jako zalogowany użytkownik, chcę sprawdzić listę produktów w koszyku, aby sprawdzić czy jest wszystko co zamówiłem.
+Punkty estymacyjne: 1
